@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=260&section=header&text=UI%20%26%20UX%20Design%20%F0%9F%8E%A8&fontSize=55&fontColor=ffffff&fontAlignY=43&desc=No%20Cap%20Summary%20%E2%9C%A8%20Aptech%202025&descSize=18&descAlignY=67&descColor=b6ff5f&animation=fadeIn&stroke=b6ff5f&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=260&section=header&text=UI+%26+UX+Design+%F0%9F%8E%A8&fontSize=55&fontColor=ffffff&fontAlignY=43&desc=No+Cap+Summary+%E2%9C%A8+Aptech+2025&descSize=18&descAlignY=67&descColor=b6ff5f&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,11 +8,11 @@
 
 [![Made By](https://img.shields.io/badge/Made%20by-kamsi%20💚-b6ff5f?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code)
 &nbsp;
-[![Sessions](https://img.shields.io/badge/Sessions-8%20✨-FF6B9D?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code)
+[![Sessions](https://img.shields.io/badge/Sessions-8%20✨-FF6B9D?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code/UNDERSTANDING-UI-UX)
 &nbsp;
-[![Stack](https://img.shields.io/badge/HTML%20·%20CSS%20·%20No%20Framework-Pure%20Code-5ff0ff?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code)
+[![Stack](https://img.shields.io/badge/HTML%20·%20CSS-Pure%20Code-5ff0ff?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code/UNDERSTANDING-UI-UX)
 &nbsp;
-[![Vibe](https://img.shields.io/badge/Vibe-Immaculate%20fr%20fr-ffcc5f?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code)
+[![Vibe](https://img.shields.io/badge/Vibe-Immaculate%20fr%20fr-ffcc5f?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code/UNDERSTANDING-UI-UX)
 
 <br/>
 
@@ -86,7 +86,7 @@ No dry textbook energy. No boring walls of text. Just **8 colour-coded sessions*
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mmesomaonyeka301-code&hide_border=true&background=0a0a0f&ring=b6ff5f&fire=FF6B9D&currStreakLabel=b6ff5f&sideLabels=ffffff&dates=7a7a99&stroke=1a1a26" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmesomaonyeka301-code&hide_border=true&background=0a0a0f&ring=b6ff5f&fire=FF6B9D&currStreakLabel=b6ff5f&sideLabels=ffffff&dates=7a7a99" width="50%"/>
 
 </div>
 
@@ -149,7 +149,7 @@ No server. No npm install. No setup. Just open and read.
 ## 📁 Project Structure
 
 ```
-✨ ui-ux-genz-summary/
+✨ UNDERSTANDING-UI-UX/
 │
 ├── 📄 UI_UX_Course_GenZ_Summary.html   ← The entire study guide
 └── 📄 README.md                        ← You're here 💚
@@ -183,12 +183,12 @@ Distributed under the **MIT License**. Free to use, share and study from.
 
 <br/><br/>
 
-[![Star](https://img.shields.io/github/stars/mmesomaonyeka301-code/ui-ux-genz-summary?color=b6ff5f&labelColor=0a0a0f&style=for-the-badge&logo=github&logoColor=b6ff5f)](https://github.com/mmesomaonyeka301-code)
+[![Star](https://img.shields.io/github/stars/mmesomaonyeka301-code/UNDERSTANDING-UI-UX?color=b6ff5f&labelColor=0a0a0f&style=for-the-badge&logo=github&logoColor=b6ff5f)](https://github.com/mmesomaonyeka301-code/UNDERSTANDING-UI-UX)
 &nbsp;
 [![Follow](https://img.shields.io/github/followers/mmesomaonyeka301-code?color=FF6B9D&labelColor=0a0a0f&style=for-the-badge&logo=github&logoColor=FF6B9D&label=Follow)](https://github.com/mmesomaonyeka301-code)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=150&section=footer&text=%F0%9F%92%9A%20fr%20fr%20you%27ve%20got%20this%20%F0%9F%92%9A&fontSize=20&fontColor=b6ff5f&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=150&section=footer&text=%F0%9F%92%9A+fr+fr+you%27ve+got+this+%F0%9F%92%9A&fontSize=20&fontColor=b6ff5f&fontAlignY=65" width="100%"/>
 
 </div>
