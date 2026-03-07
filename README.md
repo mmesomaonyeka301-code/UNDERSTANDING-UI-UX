@@ -1,74 +1,194 @@
-# 🎨 UI & UX Design — No Cap Summary
+<div align="center">
 
-> A Gen Z-friendly, interactive HTML summary of the **"Elegant and Effective Website Design with UI and UX"** course by Aptech Limited (2025 Edition).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=260&section=header&text=UI%20%26%20UX%20Design%20%F0%9F%8E%A8&fontSize=55&fontColor=ffffff&fontAlignY=43&desc=No%20Cap%20Summary%20%E2%9C%A8%20Aptech%202025&descSize=18&descAlignY=67&descColor=b6ff5f&animation=fadeIn&stroke=b6ff5f&strokeWidth=1" width="100%"/>
 
----
+</div>
 
-## 📖 About
+<div align="center">
 
-This is a styled, single-file HTML document that breaks down all **8 sessions** of the UI/UX Learner's Guide in a way that's actually fun to read. No dry textbook energy — just clean design and plain English (with a little Gen Z flair).
+[![Made By](https://img.shields.io/badge/Made%20by-kamsi%20💚-b6ff5f?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code)
+&nbsp;
+[![Sessions](https://img.shields.io/badge/Sessions-8%20✨-FF6B9D?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code)
+&nbsp;
+[![Stack](https://img.shields.io/badge/HTML%20·%20CSS%20·%20No%20Framework-Pure%20Code-5ff0ff?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code)
+&nbsp;
+[![Vibe](https://img.shields.io/badge/Vibe-Immaculate%20fr%20fr-ffcc5f?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code)
 
-Built with pure HTML, CSS, and Google Fonts. No frameworks, no dependencies, no installs needed.
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=21&duration=3000&pause=800&color=b6ff5f&background=00000000&center=true&vCenter=true&width=650&lines=The+UI%2FUX+Study+Guide+That+Actually+Slaps+%F0%9F%92%9A;8+Sessions.+Zero+Boring+Textbook+Energy.;Dark+Mode+%2B+Colour-Coded+Cards+%E2%9C%A8;No+Frameworks.+No+Installs.+Just+Open+%26+Read.;You%27ve+got+this%2C+fr+fr.+%F0%9F%92%9A" alt="Typing SVG" />
 
-## 🗂️ What's Inside
+</div>
 
-| Session | Topic |
-|---------|-------|
-| 01 | Introduction to User Interface Design |
-| 02 | Introduction to User Experience Design |
-| 03 | Understanding Responsive Web Design |
-| 04 | Strategies for Responsive Web Design |
-| 05 | Common RWD Patterns in Mobile Designs |
-| 06 | Usability Studies in Responsive Web Design |
-| 07 | Understanding the Figma Tool |
-| 08 | Designing Websites with Figma |
-
-Plus a **TL;DR Cheat Sheet** at the bottom covering all the key takeaways in one glance.
+<br/>
 
 ---
 
-## 🚀 How to Use
+## 💚 About
 
-1. Download `UI_UX_Course_GenZ_Summary.html`
-2. Open it in any modern browser (Chrome, Firefox, Edge, Safari)
-3. That's it — no server, no setup, just open and read
+This is a **Gen Z-friendly, interactive HTML study guide** for the *"Elegant and Effective Website Design with UI and UX"* course — Aptech Limited, 2025 Edition.
+
+No dry textbook energy. No boring walls of text. Just **8 colour-coded sessions**, real analogies, and plain English that actually makes sense — built into a single beautiful HTML file you can open in any browser.
+
+> *No cap — this is everything you need to understand UI/UX design.* ✨
+
+---
+
+## 🗂️ Sessions Covered
+
+<div align="center">
+
+| ✨ # | Topic |
+|:---:|:---|
+| `01` | 🎨 Introduction to User Interface Design |
+| `02` | ✨ Introduction to User Experience Design |
+| `03` | 📱 Understanding Responsive Web Design |
+| `04` | 🧩 Strategies for Responsive Web Design |
+| `05` | 📐 Common RWD Patterns in Mobile Designs |
+| `06` | 🔬 Usability Studies in Responsive Web Design |
+| `07` | 🛠️ Understanding the Figma Tool |
+| `08` | 🖥️ Designing Websites with Figma |
+
+</div>
+
+> Plus a 💚 **TL;DR Cheat Sheet** at the bottom — all 8 sessions summarised in one glance.
 
 ---
 
 ## ✨ Features
 
-- **Dark mode design** with a sleek, modern aesthetic
-- **Color-coded session cards** — each session has its own accent color
-- **Animated reveals** — cards fade in smoothly on load
-- **Fully responsive** — readable on mobile, tablet, and desktop
-- **TL;DR section** — 8 key takeaways for quick revision
-- **No external dependencies** beyond Google Fonts
+<div align="center">
+
+| &nbsp; | Feature | Description |
+|:---:|:---|:---|
+| 🟢 | **Dark Mode Design** | Sleek, modern aesthetic — easy on the eyes |
+| 🟣 | **Colour-Coded Cards** | Each session has its own unique accent colour |
+| 🩷 | **Animated Reveals** | Cards fade in smoothly on page load |
+| 🟡 | **Fully Responsive** | Readable on mobile, tablet and desktop |
+| 🔵 | **TL;DR Cheat Sheet** | 8 key takeaways for quick revision |
+| 🟢 | **Zero Dependencies** | Just Google Fonts — nothing else needed |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mmesomaonyeka301-code&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=b6ff5f&icon_color=FF6B9D&text_color=ffffff&border_radius=16" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmesomaonyeka301-code&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=b6ff5f&text_color=ffffff&border_radius=16" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mmesomaonyeka301-code&hide_border=true&background=0a0a0f&ring=b6ff5f&fire=FF6B9D&currStreakLabel=b6ff5f&sideLabels=ffffff&dates=7a7a99&stroke=1a1a26" width="50%"/>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3 (custom properties, animations, media queries, grid, flexbox)
-- Google Fonts — Syne, Space Mono, DM Sans
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode,git&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Layer | Technology |
+|:---|:---|
+| **Markup** | HTML5 |
+| **Styling** | CSS3 — custom properties, grid, flexbox, animations |
+| **Fonts** | Google Fonts — Syne, Space Mono, DM Sans |
+| **Frameworks** | None — zero dependencies 💚 |
+| **Version Control** | Git & GitHub |
+
+</div>
+
+---
+
+## 🎨 Colour Palette
+
+<div align="center">
+
+![Green](https://img.shields.io/badge/%23b6ff5f-Neon%20Green-b6ff5f?style=for-the-badge&labelColor=0a0a0f&color=b6ff5f)
+![Pink](https://img.shields.io/badge/%23FF6B9D-Hot%20Pink-FF6B9D?style=for-the-badge&labelColor=0a0a0f&color=FF6B9D)
+![Cyan](https://img.shields.io/badge/%235ff0ff-Electric%20Cyan-5ff0ff?style=for-the-badge&labelColor=0a0a0f&color=5ff0ff)
+![Yellow](https://img.shields.io/badge/%23ffcc5f-Warm%20Yellow-ffcc5f?style=for-the-badge&labelColor=0a0a0f&color=ffcc5f)
+![Void](https://img.shields.io/badge/%230a0a0f-Void%20Black-0a0a0f?style=for-the-badge&labelColor=b6ff5f&color=0a0a0f)
+![Surface](https://img.shields.io/badge/%231a1a26-Dark%20Surface-1a1a26?style=for-the-badge&labelColor=b6ff5f&color=1a1a26)
+
+</div>
+
+---
+
+## 🚀 How to Use
+
+```bash
+# Step 1 — Download the file
+UI_UX_Course_GenZ_Summary.html
+
+# Step 2 — Open in any browser
+Chrome · Firefox · Edge · Safari
+
+# Step 3 — That's literally it 💚
+No server. No npm install. No setup. Just open and read.
+```
+
+---
+
+## 📁 Project Structure
+
+```
+✨ ui-ux-genz-summary/
+│
+├── 📄 UI_UX_Course_GenZ_Summary.html   ← The entire study guide
+└── 📄 README.md                        ← You're here 💚
+```
 
 ---
 
 ## 📚 Source Material
 
-**Book:** Elegant and Effective Website Design with UI and UX — Learner's Guide  
-**Publisher:** kamsi 
-**Edition:** 2 — 2025  
+| Field | Details |
+|:---|:---|
+| 📖 **Book** | Elegant and Effective Website Design with UI and UX |
+| 🏫 **Publisher** | kamsi |
+| 📅 **Edition** | 2 — 2025 |
+
+> This summary is a **study aid**, not a replacement for the full course material. Best viewed in a modern browser at full width. 🖥️
 
 ---
 
-## 📝 Notes
+## 📄 License
 
-- This summary is meant as a **study aid**, not a replacement for the full course material
-- Best viewed in a modern browser at full width for the full experience
+Distributed under the **MIT License**. Free to use, share and study from.
 
 ---
 
-*Made with 💚 to help you actually get this course. You've got it, fr.*
+<div align="center">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=16&duration=4000&pause=1200&color=b6ff5f&background=00000000&center=true&vCenter=true&width=580&lines=Made+with+%F0%9F%92%9A+to+help+you+actually+get+this+course.;You%27ve+got+it%2C+fr.+%E2%9C%A8;Star+the+repo+if+it+helped+%E2%AD%90" alt="footer typing" />
+
+<br/><br/>
+
+[![Star](https://img.shields.io/github/stars/mmesomaonyeka301-code/ui-ux-genz-summary?color=b6ff5f&labelColor=0a0a0f&style=for-the-badge&logo=github&logoColor=b6ff5f)](https://github.com/mmesomaonyeka301-code)
+&nbsp;
+[![Follow](https://img.shields.io/github/followers/mmesomaonyeka301-code?color=FF6B9D&labelColor=0a0a0f&style=for-the-badge&logo=github&logoColor=FF6B9D&label=Follow)](https://github.com/mmesomaonyeka301-code)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=150&section=footer&text=%F0%9F%92%9A%20fr%20fr%20you%27ve%20got%20this%20%F0%9F%92%9A&fontSize=20&fontColor=b6ff5f&fontAlignY=65" width="100%"/>
+
+</div>
