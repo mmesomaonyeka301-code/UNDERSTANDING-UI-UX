@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,FF6B9D,50,FFB3C6,100,FF6B9D&height=260&section=header&text=UI%20and%20UX%20Design&fontSize=58&fontColor=ffffff&fontAlignY=43&desc=No%20Cap%20Summary%20%7C%20Aptech%202025&descSize=18&descAlignY=67&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=260&section=header&text=UI%20and%20UX%20Design&fontSize=58&fontColor=ffffff&fontAlignY=43&desc=No%20Cap%20Summary%20%7C%20Aptech%202025&descSize=18&descAlignY=67&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=21&duration=3000&pause=800&color=b6ff5f&background=00000000&center=true&vCenter=true&width=650&lines=The+UI%2FUX+Study+Guide+That+Actually+Slaps;8+Sessions.+Zero+Boring+Textbook+Energy.;Dark+Mode+%2B+Colour-Coded+Cards;No+Frameworks.+No+Installs.+Just+Open+and+Read.;You%27ve+got+this%2C+fr+fr." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=21&duration=3000&pause=800&color=FF6B9D&background=00000000&center=true&vCenter=true&width=650&lines=The+UI%2FUX+Study+Guide+That+Actually+Slaps;8+Sessions.+Zero+Boring+Textbook+Energy.;Dark+Mode+%2B+Colour-Coded+Cards;No+Frameworks.+No+Installs.+Just+Open+and+Read.;You%27ve+got+this%2C+fr+fr." alt="Typing SVG" />
 
 </div>
 
@@ -179,7 +179,7 @@ Distributed under the **MIT License**. Free to use, share and study from.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=16&duration=4000&pause=1200&color=b6ff5f&background=00000000&center=true&vCenter=true&width=580&lines=Made+with+love+to+help+you+get+this+course.;You%27ve+got+it%2C+fr.;Star+the+repo+if+it+helped!" alt="footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=16&duration=4000&pause=1200&color=FF6B9D&background=00000000&center=true&vCenter=true&width=580&lines=Made+with+love+to+help+you+get+this+course.;You%27ve+got+it%2C+fr.;Star+the+repo+if+it+helped!" alt="footer typing" />
 
 <br/><br/>
 
@@ -189,6 +189,6 @@ Distributed under the **MIT License**. Free to use, share and study from.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,CC0000,50,FF3333,100,CC0000&height=150&section=footer&text=fr%20fr%20you%27ve%20got%20this&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=footer&text=fr%20fr%20you%27ve%20got%20this&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
