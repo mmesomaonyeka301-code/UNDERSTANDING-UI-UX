@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=260&section=header&text=UI+%26+UX+Design+%F0%9F%8E%A8&fontSize=55&fontColor=ffffff&fontAlignY=43&desc=No+Cap+Summary+%E2%9C%A8+Aptech+2025&descSize=18&descAlignY=67&descColor=b6ff5f&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=260&section=header&text=UI%20and%20UX%20Design&fontSize=58&fontColor=ffffff&fontAlignY=43&desc=No%20Cap%20Summary%20%7C%20Aptech%202025&descSize=18&descAlignY=67&descColor=b6ff5f&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -10,13 +10,13 @@
 &nbsp;
 [![Sessions](https://img.shields.io/badge/Sessions-8%20✨-FF6B9D?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code/UNDERSTANDING-UI-UX)
 &nbsp;
-[![Stack](https://img.shields.io/badge/HTML%20·%20CSS-Pure%20Code-5ff0ff?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code/UNDERSTANDING-UI-UX)
+[![Stack](https://img.shields.io/badge/HTML%20%C2%B7%20CSS-Pure%20Code-5ff0ff?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code/UNDERSTANDING-UI-UX)
 &nbsp;
 [![Vibe](https://img.shields.io/badge/Vibe-Immaculate%20fr%20fr-ffcc5f?style=for-the-badge&labelColor=0a0a0f)](https://github.com/mmesomaonyeka301-code/UNDERSTANDING-UI-UX)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=21&duration=3000&pause=800&color=b6ff5f&background=00000000&center=true&vCenter=true&width=650&lines=The+UI%2FUX+Study+Guide+That+Actually+Slaps+%F0%9F%92%9A;8+Sessions.+Zero+Boring+Textbook+Energy.;Dark+Mode+%2B+Colour-Coded+Cards+%E2%9C%A8;No+Frameworks.+No+Installs.+Just+Open+%26+Read.;You%27ve+got+this%2C+fr+fr.+%F0%9F%92%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=21&duration=3000&pause=800&color=b6ff5f&background=00000000&center=true&vCenter=true&width=650&lines=The+UI%2FUX+Study+Guide+That+Actually+Slaps;8+Sessions.+Zero+Boring+Textbook+Energy.;Dark+Mode+%2B+Colour-Coded+Cards;No+Frameworks.+No+Installs.+Just+Open+and+Read.;You%27ve+got+this%2C+fr+fr." alt="Typing SVG" />
 
 </div>
 
@@ -179,7 +179,7 @@ Distributed under the **MIT License**. Free to use, share and study from.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=16&duration=4000&pause=1200&color=b6ff5f&background=00000000&center=true&vCenter=true&width=580&lines=Made+with+%F0%9F%92%9A+to+help+you+actually+get+this+course.;You%27ve+got+it%2C+fr.+%E2%9C%A8;Star+the+repo+if+it+helped+%E2%AD%90" alt="footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=16&duration=4000&pause=1200&color=b6ff5f&background=00000000&center=true&vCenter=true&width=580&lines=Made+with+love+to+help+you+get+this+course.;You%27ve+got+it%2C+fr.;Star+the+repo+if+it+helped!" alt="footer typing" />
 
 <br/><br/>
 
@@ -189,6 +189,6 @@ Distributed under the **MIT License**. Free to use, share and study from.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=150&section=footer&text=%F0%9F%92%9A+fr+fr+you%27ve+got+this+%F0%9F%92%9A&fontSize=20&fontColor=b6ff5f&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=150&section=footer&text=fr%20fr%20you%27ve%20got%20this&fontSize=22&fontColor=b6ff5f&fontAlignY=65" width="100%"/>
 
 </div>
