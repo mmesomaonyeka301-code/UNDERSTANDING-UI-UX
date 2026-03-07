@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=260&section=header&text=UI%20and%20UX%20Design&fontSize=58&fontColor=ffffff&fontAlignY=43&desc=No%20Cap%20Summary%20%7C%20Aptech%202025&descSize=18&descAlignY=67&descColor=b6ff5f&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,FF6B9D,50,FFB3C6,100,FF6B9D&height=260&section=header&text=UI%20and%20UX%20Design&fontSize=58&fontColor=ffffff&fontAlignY=43&desc=No%20Cap%20Summary%20%7C%20Aptech%202025&descSize=18&descAlignY=67&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -189,6 +189,6 @@ Distributed under the **MIT License**. Free to use, share and study from.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,7C3AED,60,FF6B9D,100,0a0a0f&height=150&section=footer&text=fr%20fr%20you%27ve%20got%20this&fontSize=22&fontColor=b6ff5f&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,CC0000,50,FF3333,100,CC0000&height=150&section=footer&text=fr%20fr%20you%27ve%20got%20this&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
